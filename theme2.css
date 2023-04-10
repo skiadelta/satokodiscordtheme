@@ -162,7 +162,7 @@
 
 /* remove big chat background and add back smaller */
 .chat-2ZfjoI {
-	background: var(--background-image) !important;
+	background: none !important;
 }
 .chatContent-3KubbW {
     background: var(--background-image);
